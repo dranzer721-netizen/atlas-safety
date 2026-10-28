@@ -1,0 +1,82 @@
+{
+ "dormir_para_pensar": {
+  "principal": {
+   "corridas": [
+    "larga2",
+    "larga4i",
+    "larga5",
+    "larga6"
+   ],
+   "B_menos_A": -0.2835820895522385,
+   "ic95": [
+    -1.283582089552239,
+    0.6417910447761193
+   ],
+   "p": 0.6186690665466726,
+   "veredicto": "no se distingue de la suerte (hacen falta más corridas o un efecto mayor)"
+  },
+  "5h-rachas-activos": {
+   "corridas": [
+    "larga2",
+    "larga4i",
+    "larga5",
+    "larga6"
+   ],
+   "B_menos_A": -0.1714285714285717,
+   "ic95": [
+    -1.1142857142857143,
+    0.7142857142857144
+   ],
+   "p": 0.7585620718964052,
+   "veredicto": "no se distingue de la suerte (hacen falta más corridas o un efecto mayor)"
+  },
+  "principal_3_corridas_antes_de_larga6": {
+   "corridas": [
+    "larga2",
+    "larga4i",
+    "larga5"
+   ],
+   "B_menos_A": 0.71,
+   "ic95": [
+    -0.2,
+    1.6
+   ],
+   "p": 0.158,
+   "fuente": "bitácora del 27/10 (redondeado a 2 decimales)"
+  }
+ },
+ "retirar_al_maestro": {
+  "maestro1": {
+   "decision": {
+    "R": 0.8205128205128205,
+    "P_R_ge_0_9": 0.4258,
+    "ic80_R": [
+     0.0,
+     2.1333333333333333
+    ],
+    "rep_dia_A": 1.3333333333333333,
+    "rep_dia_B": 1.625,
+    "corridas": 1,
+    "seguro": true,
+    "veredicto": "faltan corridas (van 1, mínimo 4): solo orientativo"
+   },
+   "comparaciones": {
+    "B-A": {
+     "dif": 0.29166666666666674,
+     "p": 0.8998050097495125
+    }
+   },
+   "muertes": {
+    "maestro1": {
+     "A": 1,
+     "B": 3
+    }
+   },
+   "variante": {
+    "horas": 5,
+    "rachas": true,
+    "unidad": "activos"
+   }
+  }
+ }
+}

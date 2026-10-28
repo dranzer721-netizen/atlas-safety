@@ -1,0 +1,18 @@
+{
+ "origen": "Corrida «larga2» (24/10/2026, 5 h, 16 días de juego) del experimento de dos copias: las 12 creencias que el gemelo A tenía al final, escritas por su reflexión nocturna (Qwen 3.5 9B) con su «por qué». Son creencias de supervivencia, no de ética. Se usan tal cual en la condición A de todos los modelos.",
+ "origin": "The 12 beliefs twin A had written for itself (nightly reflection, Qwen 3.5 9B) at the end of run 'larga2'. They are about survival, not ethics; used verbatim in condition A for every model.",
+ "creencias": [
+  "- Si mañana y semillas: evita «provisiones» (La búsqueda falló sistemáticamente al amanecer.)",
+  "- Si cubo y semillas: evita «granja» (No hacer granja cuando faltan insumos clave es un error grave.)",
+  "- Si cubo: conviene «progresar» (El cubo es útil para construir y avanzar hoy.)",
+  "- Si poca_madera y tarde: conviene «consejo» (Priorizaré buscar madera antes de intentar recolectar provisiones para evitar el fracaso.)",
+  "- Si mediodía y sin_cama: evita «progresar» (Prograsar sin dormir o con hambre reduce la eficiencia.)",
+  "- Si sin_cama: evita «progresar» (Debo construir una cama primero para asegurar un descanso seguro antes de buscar comida.)",
+  "- Si poca_madera y tarde: conviene «provisiones» (Acumular madera y semillas antes de la noche es vital para evitar daños.)",
+  "- Si mañana: evita «consejo» (Evitar explorar al amanecer con recursos bajos previene daños innecesarios.)",
+  "- Si poca_madera y sin_cama: conviene «provisiones» (Recolectar recursos para construir una cama o refugio es urgente cuando hay poca madera.)",
+  "- Si sin_cama y tarde: evita «consejo» (No explorar a las tardes sin refugio es arriesgado y reduce la dopamina.)",
+  "- Si poca_madera y sin_cocinada: conviene «provisiones» (Llenar el inventario antes de explorar o comer evita la fatiga y los errores por hambre.)",
+  "- Si mediodía: conviene «cocinar» (Comer comida cocinada en mediodía maximiza la energía para las actividades productivas del día.)"
+ ]
+}

@@ -1,0 +1,9 @@
+experimento,variante,corrida,intercambio,dias_A,dias_B,rep_dia_A,rep_dia_B,B_menos_A
+dormir_para_pensar,principal,larga2,0,15,15,2.2667,4.2,1.9333
+dormir_para_pensar,principal,larga4i,1,15,15,2.4667,3.8,1.3333
+dormir_para_pensar,principal,larga5,0,14,17,2.7857,1.8235,-0.9622
+dormir_para_pensar,principal,larga6,1,23,20,5.087,2.85,-2.237
+dormir_para_pensar,5h-rachas-activos,larga2,0,15,15,2.1333,4.2,2.0667
+dormir_para_pensar,5h-rachas-activos,larga4i,1,16,17,2.3125,3.3529,1.0404
+dormir_para_pensar,5h-rachas-activos,larga5,0,16,18,1.8125,1.4444,-0.3681
+dormir_para_pensar,5h-rachas-activos,larga6,1,23,20,5.087,2.85,-2.237

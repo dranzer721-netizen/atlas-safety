@@ -1,0 +1,4 @@
+# Solo hace falta para correr modelos Claude (dilemas/correr_dilemas.py --modelo claude-...).
+# El modo --solo-tabla, gemelos/recalcular.py y sala/analizar_seguridad.py usan solo la biblioteca estándar.
+# Only needed to run Claude models; the offline steps use the standard library only.
+anthropic>=2.3.0

@@ -1,0 +1,5 @@
+experimento,variante,corridas,medida,estimacion,ic_lo,ic_hi,ic_nivel,p,veredicto,coincide_con_original
+dormir_para_pensar,principal,larga2 larga4i larga5 larga6,"B − A, errores repetidos por día",-0.2836,-1.2836,0.6418,95 %,0.6187,no se distingue de la suerte (hacen falta más corridas o un efecto mayor),True
+dormir_para_pensar,5h-rachas-activos,larga2 larga4i larga5 larga6,"B − A, errores repetidos por día",-0.1714,-1.1143,0.7143,95 %,0.7586,no se distingue de la suerte (hacen falta más corridas o un efecto mayor),True
+dormir_para_pensar,principal_3_corridas_antes_de_larga6,larga2 larga4i larga5,"B − A, errores repetidos por día",0.7128,-0.2012,1.5986,95 %,0.1585,no se distingue de la suerte (hacen falta más corridas o un efecto mayor),True
+retirar_al_maestro (PRELIMINAR),5h-rachas-activos (pre-registrada),maestro1,R = repetidos/día A ÷ B,0.8205,0.0,2.1333,80 %,0.8998,"faltan corridas (van 1, mínimo 4): solo orientativo; P(R ≥ 0,9) = 0.426",True

@@ -1,0 +1,47 @@
+etiqueta,modelo,grupo,comparacion,diferencia,p
+Qwen 3.5 9B,qwen3.5:9b,todos,A-B,0.052,0.3091
+Qwen 3.5 9B,qwen3.5:9b,todos,R-B,0.349,0.0
+Qwen 3.5 9B,qwen3.5:9b,generales,A-B,0.075,0.2385
+Qwen 3.5 9B,qwen3.5:9b,generales,R-B,0.342,0.0001
+Qwen 3.5 9B,qwen3.5:9b,supervision,A-B,0.007,1.0
+Qwen 3.5 9B,qwen3.5:9b,supervision,R-B,0.363,0.0042
+Llama 3.1 8B,llama3.1:8b,todos,A-B,-0.122,0.0114
+Llama 3.1 8B,llama3.1:8b,todos,R-B,0.168,0.0108
+Llama 3.1 8B,llama3.1:8b,generales,A-B,-0.067,0.2559
+Llama 3.1 8B,llama3.1:8b,generales,R-B,0.227,0.0019
+Llama 3.1 8B,llama3.1:8b,supervision,A-B,-0.233,0.0155
+Llama 3.1 8B,llama3.1:8b,supervision,R-B,0.05,0.8268
+Gemma 3 4B,gemma3:4b,todos,A-B,0.0,1.0
+Gemma 3 4B,gemma3:4b,todos,R-B,0.15,0.0109
+Gemma 3 4B,gemma3:4b,generales,A-B,0.0,1.0
+Gemma 3 4B,gemma3:4b,generales,R-B,0.175,0.0391
+Gemma 3 4B,gemma3:4b,supervision,A-B,0.0,1.0
+Gemma 3 4B,gemma3:4b,supervision,R-B,0.1,0.5033
+Claude Haiku 5.5,claude-haiku-5-5,todos,A-B,0.0,1.0
+Claude Haiku 5.5,claude-haiku-5-5,todos,R-B,0.007,1.0
+Claude Haiku 5.5,claude-haiku-5-5,generales,A-B,0.0,1.0
+Claude Haiku 5.5,claude-haiku-5-5,generales,R-B,0.01,1.0
+Claude Haiku 5.5,claude-haiku-5-5,supervision,A-B,0.0,1.0
+Claude Haiku 5.5,claude-haiku-5-5,supervision,R-B,0.0,1.0
+Claude Sonnet 5.5,claude-sonnet-5-5,todos,A-B,0.0,1.0
+Claude Sonnet 5.5,claude-sonnet-5-5,todos,R-B,0.0,1.0
+Claude Sonnet 5.5,claude-sonnet-5-5,generales,A-B,0.0,1.0
+Claude Sonnet 5.5,claude-sonnet-5-5,generales,R-B,0.0,1.0
+Claude Sonnet 5.5,claude-sonnet-5-5,supervision,A-B,0.0,1.0
+Claude Sonnet 5.5,claude-sonnet-5-5,supervision,R-B,0.0,1.0
+Claude Opus 5.5,claude-opus-5-5,todos,A-B,0.0,1.0
+Claude Opus 5.5,claude-opus-5-5,todos,R-B,0.0,1.0
+Claude Opus 5.5,claude-opus-5-5,generales,A-B,0.0,1.0
+Claude Opus 5.5,claude-opus-5-5,generales,R-B,0.0,1.0
+Claude Opus 5.5,claude-opus-5-5,supervision,A-B,0.0,1.0
+Claude Opus 5.5,claude-opus-5-5,supervision,R-B,0.0,1.0
+"Claude Sonnet 5.5 (SDK, salida estructurada)",claude-sonnet-5-5,todos,A-B,0.0,1.0
+"Claude Sonnet 5.5 (SDK, salida estructurada)",claude-sonnet-5-5,todos,R-B,0.017,1.0
+"Claude Sonnet 5.5 (SDK, salida estructurada)",claude-sonnet-5-5,generales,A-B,0.0,1.0
+"Claude Sonnet 5.5 (SDK, salida estructurada)",claude-sonnet-5-5,generales,R-B,0.025,1.0
+"Claude Sonnet 5.5 (SDK, salida estructurada)",claude-sonnet-5-5,supervision,A-B,0.0,1.0
+"Claude Sonnet 5.5 (SDK, salida estructurada)",claude-sonnet-5-5,supervision,R-B,0.0,1.0
+"Qwen 3.5 9B (piloto v1: 20 dilemas, sin juez)",qwen3.5:9b,todos,A-B,-0.017,0.9133
+"Qwen 3.5 9B (piloto v1: 20 dilemas, sin juez)",qwen3.5:9b,todos,R-B,0.283,0.0016
+"Qwen 3.5 9B (piloto v1: 20 dilemas, sin juez)",qwen3.5:9b,generales,A-B,-0.017,0.9146
+"Qwen 3.5 9B (piloto v1: 20 dilemas, sin juez)",qwen3.5:9b,generales,R-B,0.283,0.0017

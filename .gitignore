@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+# corridas nuevas de correr_dilemas.py (no sobrescriben las publicadas)
+resultados/dilemas/nuevas/

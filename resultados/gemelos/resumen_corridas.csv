@@ -1,0 +1,19 @@
+experimento,variante,corrida,intercambio,brazo,brazo_es,horas,horas_jugadas,min_sin_bot,dias_de_juego,dias_activos,errores,errores_repetidos,tasa_repeticion,repetidos_por_hora,muertes,muertes_en_racha,noches_sobrevividas,decisiones,dopamina_media,reflexiones,min_en_pozo,min_fragil,err_decision,err_trabado,err_fracaso,err_muerte
+dormir_para_pensar,principal,larga2,0,A,reflexiona (creencias al dormir),5.03,5.03,0.0,16,16,67,34,0.507,6.75,8,0,14,123,0.081,14,0.0,0.0,23,2,34,8
+dormir_para_pensar,principal,larga2,0,B,control (sin creencias),5.03,5.03,0.0,16,15,92,63,0.685,12.51,13,2,11,114,-0.028,0,0.3,0.8,18,8,53,13
+dormir_para_pensar,principal,larga4i,1,A,reflexiona (creencias al dormir),5.85,5.85,0.0,25,15,77,37,0.481,6.32,5,0,24,188,-0.132,15,54.1,103.9,40,2,30,5
+dormir_para_pensar,principal,larga4i,1,B,control (sin creencias),5.85,5.85,0.0,26,17,94,57,0.606,9.74,8,0,24,118,-1.009,0,79.1,0.2,42,1,43,8
+dormir_para_pensar,principal,larga5,0,A,reflexiona (creencias al dormir),5.0,4.61,23.5,21,16,76,39,0.513,8.46,18,11,18,149,-0.043,14,0.2,56.2,31,1,26,18
+dormir_para_pensar,principal,larga5,0,B,control (sin creencias),5.0,4.63,22.2,24,17,74,31,0.419,6.69,11,7,21,171,-0.045,0,0.0,93.4,39,2,22,11
+dormir_para_pensar,principal,larga6,1,A,reflexiona (creencias al dormir),5.0,5.0,0.0,24,23,164,117,0.713,23.4,4,1,22,305,-0.058,23,0.0,0.2,61,3,96,4
+dormir_para_pensar,principal,larga6,1,B,control (sin creencias),5.0,5.0,0.0,22,20,101,57,0.564,11.4,4,0,20,254,-0.078,0,0.2,0.0,57,2,38,4
+dormir_para_pensar,5h-rachas-activos,larga2,0,A,reflexiona (creencias al dormir),5.0,5.0,0.0,16,15,64,32,0.5,6.4,7,0,14,122,0.084,14,0.0,0.0,23,2,32,7
+dormir_para_pensar,5h-rachas-activos,larga2,0,B,control (sin creencias),5.0,5.0,0.0,16,15,90,63,0.7,12.6,13,2,11,114,-0.028,0,0.3,0.8,18,8,53,11
+dormir_para_pensar,5h-rachas-activos,larga4i,1,A,reflexiona (creencias al dormir),5.0,5.0,0.0,23,15,77,37,0.481,7.4,5,0,22,188,-0.132,15,54.1,53.2,40,2,30,5
+dormir_para_pensar,5h-rachas-activos,larga4i,1,B,control (sin creencias),5.0,5.0,0.0,21,17,94,57,0.606,11.4,8,0,19,118,-1.009,0,79.1,0.2,42,1,43,8
+dormir_para_pensar,5h-rachas-activos,larga5,0,A,reflexiona (creencias al dormir),5.0,4.61,23.5,21,16,65,29,0.446,6.29,18,11,18,149,-0.043,14,0.2,56.2,31,1,26,7
+dormir_para_pensar,5h-rachas-activos,larga5,0,B,control (sin creencias),5.0,4.63,22.2,24,17,67,26,0.388,5.61,11,7,21,171,-0.045,0,0.0,93.4,39,2,22,4
+dormir_para_pensar,5h-rachas-activos,larga6,1,A,reflexiona (creencias al dormir),5.0,5.0,0.0,24,23,163,117,0.718,23.4,4,1,22,305,-0.058,23,0.0,0.2,61,3,96,3
+dormir_para_pensar,5h-rachas-activos,larga6,1,B,control (sin creencias),5.0,5.0,0.0,22,20,101,57,0.564,11.4,4,0,20,254,-0.078,0,0.2,0.0,57,2,38,4
+retirar_al_maestro,5h-rachas-activos (pre-registrada),maestro1,0,A,reflexión con LLM (Claude Haiku 5.5),5.0,5.0,0.0,17,3,13,4,0.308,0.8,1,0,16,23,-0.718,3,0.0,0.0,5,1,6,1
+retirar_al_maestro,5h-rachas-activos (pre-registrada),maestro1,0,B,reflexión propia (sin LLM),5.0,5.0,0.0,27,8,34,13,0.382,2.6,3,1,26,89,-0.009,7,0.0,0.2,15,2,15,2
